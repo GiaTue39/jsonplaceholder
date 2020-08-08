@@ -1,4 +1,12 @@
 {
+  "categories": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "desc": "Freshly brewed coffee",
+      "image": "/images/category/coffee.png"
+    }
+  ],
   "contacts": [
     {
       "id": 1,
