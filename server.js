@@ -36,6 +36,7 @@ server.post('/auth/login', (req, res) => {
 });
 
 // authorization middleware
+/*
 server.use((req, res, next) => {
   if (req.headers.authorization === undefined || req.headers.authorization.split(' ')[0] !== 'Bearer') {
     const status = 401;
@@ -52,6 +53,7 @@ server.use((req, res, next) => {
     res.status(status).json({ status, message });
   }
 });
+*/
 
 server.use('/api', router);
 
