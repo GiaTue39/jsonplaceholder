@@ -1,10 +1,46 @@
 {
   "categories": [
-    {
+   {
       "id": 1,
       "name": "Coffee",
       "desc": "Freshly brewed coffee",
       "image": "/images/category/coffee.png"
+    },
+    {
+      "id": 2,
+      "name": "Breakfast",
+      "desc": "Hearty, hot & Fresh",
+      "image": "/images/category/breakfast.png"
+    },
+    {
+      "id": 3,
+      "name": "Munchies",
+      "desc": "Perfectly Baked Goodies",
+      "image": "/images/category/munchies.png"
+    },
+    {
+      "id": 4,
+      "name": "Lunch",
+      "desc": "Hearty, hot & Fresh",
+      "image": "/images/category/lunch.png"
+    },
+    {
+      "id": 5,
+      "name": "Fries",
+      "desc": "Fresh & Crispy",
+      "image": "/images/category/fries.png"
+    },
+    {
+      "id": 6,
+      "name": "Drinks",
+      "desc": "Healthy & Fresh",
+      "image": "/images/category/drinks.png"
+    },
+    {
+      "id": 7,
+      "name": "Piza",
+      "desc": "Healthy & Fresh",
+      "image": "/images/category/piza.png"
     }
   ],
   "contacts": [
